@@ -1,13 +1,3 @@
-"""
-ml/surrogate.py
-
-Learn a surrogate model for microkinetic TOF = f(T, PCO)
-
-Supports:
-- Random split (interpolation)
-- PCO hold-out (extrapolation)
-"""
-
 import os
 import numpy as np
 import pandas as pd
