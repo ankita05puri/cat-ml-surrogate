@@ -133,7 +133,7 @@ python ml/generalization_curve.py
 This repository is part of a broader computational catalysis workflow:
 
 ```bash
-eriodic DFT Surface Modeling
+Periodic DFT Surface Modeling
         ↓
 Microkinetic Modeling
         ↓
